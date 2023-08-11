@@ -19,8 +19,10 @@ Este es un proyecto simple de una página de blog de notas que he creado como pa
 - JavaScript: Lógica de interacción del usuario y manipulación del DOM.
 
 ## Capturas de Pantalla
+![Captura de Pantalla 2023-08-11 a la(s) 1 33 46 p  m](https://github.com/Idarugo/bloc-nota/assets/79090168/8ad125ca-e35a-4b27-b71f-9a97671b3a9e)
+![Captura de Pantalla 2023-08-11 a la(s) 1 33 38 p  m](https://github.com/Idarugo/bloc-nota/assets/79090168/f5acfa2d-48d4-44c6-ad30-d958c39ef01b)
 
-_Inserta aquí algunas capturas de pantalla que muestren cómo se ve y funciona tu página de blog de notas._
+
 
 ## Cómo Probarlo
 
